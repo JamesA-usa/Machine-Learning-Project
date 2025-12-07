@@ -1,6 +1,6 @@
 # Machine Learning Code: Problem Definition & Data Collection
 
-This repo was created to learning about machine learning. Python code in a jupyter notebook format, the datasets used, and this readme file are included. If you wish to review the blog post. Click on the below link:
+This repo contains learned machine learning methods. Python code in a jupyter notebook format, the datasets used, and this readme file are included. If you wish to review the blog post. Click on the below link:
 
 https://medium.com/@logik.machinelearning/what-does-it-take-to-learn-code-2d8dbfe61b7c
 
