@@ -43,7 +43,7 @@ https://survey.stackoverflow.co/datasets/stack-overflow-developer-survey-2021.zi
 
 
 # Potential Challenges
-You will run into issues with one row of data that displays "unset" randonmly across several columns. It changes everytime you run the code from scratch. Displat multiple attempts to remove this row, I was not succesful,
+You will run into issues with one row of data that displays "unset" randonmly across several columns. It changes everytime you run the code from scratch. Dispite multiple attempts to remove this row, I was not succesful.
 
 
 # Problem Definition & Data Collection
